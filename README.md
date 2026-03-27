@@ -46,7 +46,7 @@ These documents demonstrate:
 - Process analysis and workflow documentation
 - Troubleshooting and root cause analysis
 - Cross-functional collaboration (support, operations, stakeholders)
-- Documentation tools: Confluence, SharePoint, Zendesk
+- Documentation tools: Confluence, SharePoint
 - Web technologies: HTML, CSS, Markdown
 - UX-focused content structuring
 
@@ -54,7 +54,7 @@ These documents demonstrate:
 
 ## Tools & Technologies
 
-- Confluence, SharePoint, Zendesk, JIRA  
+- Confluence, SharePoint, JIRA  
 - HTML, CSS, Markdown  
 - Documentation workflows and content structuring  
 - AI-assisted documentation tools  
