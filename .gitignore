@@ -1,0 +1,7 @@
+# Ignore local scripts
+*.sh
+*.sh.sh
+
+# You can also ignore other temporary files here
+*.tmp
+*.log
